@@ -1,6 +1,7 @@
 Olá! Eu sou o Rafael Pacheco 👋
 
-- 📚 Eu estou cursando Analise e Densevolvimento de sistema
+- 📚 Eu estou cursando Análise e Desenvolvimento de Sistemas
+
 
 <div>
   <a href="https://github.com/rafaelpache">
